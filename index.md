@@ -4,7 +4,7 @@ My name is Jacob Aslam and I am a student at [CSUF](http://www.fullerton.edu/) a
 
 ## CPSC 120 Projects
 
-My Github page is http://github.com/jacobaslam
+My Github page is [http://github.com/jacobaslam](http://github.com/jacobaslam).
 
 ## Favorite Labs from CPSC 120 L
 
